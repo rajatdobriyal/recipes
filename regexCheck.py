@@ -1,7 +1,7 @@
-a ={"g":10};
+a ={"h":10};
 
 try:
-	b = a["g"]
+	b = a["h"]
 	print "a"
 	print a
 except Exception as e:
