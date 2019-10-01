@@ -1,7 +1,7 @@
-a ={"f":10};
+a ={"x":10};
 
 try:
-	b = a["f"]
+	b = a["x"]
 	print "a"
 	print a
 except Exception as e:
