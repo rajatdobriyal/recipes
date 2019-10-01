@@ -1,7 +1,7 @@
 a ={"f":10};
 
 try:
-	b = a["data"]
+	b = a["f"]
 	print "a"
 	print a
 except Exception as e:
